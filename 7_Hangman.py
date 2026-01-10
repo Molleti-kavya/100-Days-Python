@@ -1,4 +1,3 @@
-# using for & while loops, lists, String, Range, Modules.
 import random
 
 words_list = [
@@ -102,4 +101,5 @@ while lives!=0:
         break
 
 if lives==0:
+
     print("You lose! 0 lives left.\nThe word is ",word)
